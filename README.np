@@ -1,0 +1,27 @@
+# SarojJaprel.com.np Website
+
+This is the source code for my personal website.  
+It is hosted on **GitHub Pages** and connected to my custom domain via **Cloudflare**.
+
+## 🌐 Live Site
+- [sarojjaprel.com.np](https://sarojjaprel.com.np)
+
+## 📂 Project Files
+- `index.html` → Homepage
+- `style.css` → Stylesheet
+- `README.md` → Documentation
+
+## 🚀 How to Deploy
+1. Push this code to GitHub.
+2. Enable **GitHub Pages** in repository settings.
+3. Add your custom domain (`sarojjaprel.com.np`) in GitHub Pages.
+4. Point your domain to GitHub Pages using Cloudflare DNS.
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- GitHub Pages
+- Cloudflare DNS
+
+## 📜 License
+Open source — feel free to use and adapt.
