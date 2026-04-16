@@ -12,6 +12,13 @@ header {
   text-align: center;
 }
 
+.logo {
+  max-width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem;
+}
+
 nav a {
   color: #fff;
   margin: 0 10px;
