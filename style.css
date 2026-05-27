@@ -3,12 +3,12 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
-  background: #4b0000;
+  background: #3a0000;
   color: #fff;
 }
 
 header {
-  background: #2d0000;
+  background: #220000;
   color: #fff;
   padding: 1rem;
   text-align: center;
@@ -41,7 +41,7 @@ section {
 }
 
 footer {
-  background: #2d0000;
+  background: #220000;
   color: #fff;
   text-align: center;
   padding: 1rem;
